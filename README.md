@@ -47,8 +47,6 @@ Then execute the following:
 
 Composer will now download all components and install the needed files into `your/desired/asset/path`, ready to use.
 
-## License
-[htmlvideo](http://htmlvideo.org/) is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## More information:
 * [htmlvideo.org](http://htmlvideo.org/)
@@ -56,5 +54,4 @@ Composer will now download all components and install the needed files into `you
 * [Developer Guide and API Reference](http://www.htmlvideo.org/latest/developer-guide/)
 
 ## Author:
-Mark J Panaghiston [@thepag](http://twitter.com/thepag)
-[happyworm.com](http://happyworm.com/)
+Upwork Devboss Team
